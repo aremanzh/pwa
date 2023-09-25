@@ -1,0 +1,38 @@
+{
+    "name": "Galeri J-KOM",
+    "short_name": "GaleriJ-KOM",
+    "id": "/index.html",
+    "start_url": "/index.html",
+    "display": "standalone",
+    "background_color": "#FFE9D2",
+    "theme_color": "#FFE1C4",
+    "orientation": "portrait-primary",
+    "icons": [
+        {
+            "src": "/img/icons/icon-16x16.png",
+            "type": "image/png",
+            "sizes": "16x16"
+        },
+        {
+            "src": "/img/icons/icon-32x32.png",
+            "type": "image/png",
+            "sizes": "32x32"
+        },
+        {
+            "src": "/img/icons/icon-180x180.png",
+            "type": "image/png",
+            "sizes": "180x180"
+        },
+        {
+            "src": "/img/icons/icon-192x192.png",
+            "type": "image/png",
+            "sizes": "192x192",
+            "purpose": "any maskable"
+        },
+        {
+            "src": "/img/icons/icon-512x512.png",
+            "type": "image/png",
+            "sizes": "512x512"
+        }
+    ]
+}
