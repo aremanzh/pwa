@@ -73,3 +73,24 @@ input{
 form .input-field{
   margin-top: 30px;
 }
+form .input-file{
+  margin-top: 30px;
+  margin-bottom: 30px;
+}
+
+.wrapper {
+  display: flex;
+  align-items: center;
+}
+
+nav {
+  height: 90px;
+  border-bottom: 10px solid #01579b;
+}
+
+.flex-row {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: flex-end;
+}
